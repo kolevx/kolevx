@@ -10,10 +10,7 @@
 
 <div align="center">
     <div id="badges">
-    <a href="https://www.facebook.com/stefankolevx"><img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge" height='25' alt="Facebook Badge"/></a>
-    <a href="https://www.instagram.com/stefankolevx"><img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge" height='25' alt="Instagram Badge"/></a>
-    <a href="https://www.linkedin.com/in/stefankolevx"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge" height='25' alt="LinkedIn Badge"/></a>
-    <a href="https://www.youtube.com/@stefankolevx"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge" height='25' alt="Youtube Badge"/></a>
+    <a href="https://linktr.ee/kolevstfn"><img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge" height='25' alt="Linktree Badge"/></a>
 </div>
 </div>
   </div>
@@ -82,5 +79,5 @@
 
 <div align="center">
   
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefankolevx&show_icons=true&theme=transparent&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolevx&theme=transparent&border_color=00000000)](https://github.com/stefankolevx/github-readme-stats)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolevstfn&show_icons=true&theme=transparent&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolevstfn&theme=transparent&border_color=00000000)](https://github.com/stefankolevx/github-readme-stats)
 </div>
