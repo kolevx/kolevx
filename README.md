@@ -73,11 +73,3 @@
   </tr>
 </table>
 </div
-
-<!--GitHub Stats-->
-<h2 align="center">「📊」Stats:</h2>
-
-<div align="center">
-  
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolevstfn&show_icons=true&theme=transparent&border_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolevstfn&theme=transparent&border_color=00000000)](https://github.com/stefankolevx/github-readme-stats)
-</div>
