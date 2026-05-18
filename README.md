@@ -1,19 +1,21 @@
-<!--About-->
-<h2 align="center">「📝」About Me:</h2>
+<!--Image generated in Creavite.co (compressed)-->
+<div align="center">
+    <img width="600" height="240" alt="Image" src="https://github.com/user-attachments/assets/f70274a6-b64a-4440-8a85-f29a4aba8090" />
+</div>
 
-<p align="left">✦ Car enthusiast</p>
-<p align="left">✦ Technophile</p>
-<p align="left">✦ Ex online stundent in <a href='https://softuni.bg'>SoftUni</a> [2023-2025]</p>
+<!--About-->
+<h2 align="center">📝 About Me:</h2>
+
+<p align="center">Bulgarian, Ambitious man, Car enthusiast, Technophile</p>
+<p align="center">Online student in <a href=https://softuni.bg>Software University</a> from 2023 to 2025</p>
 
 <!--Connections / Links-->
-<h2 align="center">「🔗」Connections:</h2>
+<h2 align="center">🔗 Connections:</h2>
 
 <div align="center">
     <div id="badges">
     <a href="https://linktr.ee/kolevstfn"><img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge" height='25' alt="Linktree Badge"/></a>
 </div>
-</div>
-  </div>
 
 <!--Languages and Tools-->
 <h2 align="center">「🛠」Languages and Tools:</h2>
@@ -32,7 +34,7 @@
 </div>
 
 <!--SoftUni Certificates-->
-<h2 align="center">「📜」SoftUni Certificates:</h2>
+<h2 align="center">📜 SoftUni Certificates:</h2>
 
 <div align="center">
     <table>
