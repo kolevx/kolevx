@@ -1,20 +1,20 @@
 <!--Image generated in Creavite.co (compressed)-->
 <div align="center">
-    <img width="600" height="240" alt="Image" src="https://github.com/user-attachments/assets/f70274a6-b64a-4440-8a85-f29a4aba8090" />
+    <img width="680" height="242" alt="Image" src="https://github.com/user-attachments/assets/83515929-6e91-4b96-8ea0-63845864a833" />
 </div>
 
 <!--About-->
 <h2 align="center">📝 About Me:</h2>
 
 <p align="center">Bulgarian, Ambitious man, Car enthusiast, Technophile</p>
-<p align="center">Online student in <a href=https://softuni.bg>Software University</a> from 2023 to 2025</p>
+<p align="center">Ex online student in <a href=https://softuni.bg>Software University</a> from 2023 to 2025</p>
 
 <!--Connections / Links-->
 <h2 align="center">🔗 Connections:</h2>
 
 <div align="center">
     <div id="badges">
-    <a href="https://linktr.ee/kolevstfn"><img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge" height='25' alt="Linktree Badge"/></a>
+    <a href="https://linktr.ee/stfn.k_19"><img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge" height='25' alt="Linktree Badge"/></a>
 </div>
 
 <!--Languages and Tools-->
