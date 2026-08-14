@@ -1,8 +1,3 @@
-<!--Image generated in Creavite.co (compressed)-->
-<div align="center">
-    <img width="680" height="242" alt="Image" src="https://github.com/user-attachments/assets/83515929-6e91-4b96-8ea0-63845864a833" />
-</div>
-
 <!--About-->
 <h2 align="center">📝 About Me:</h2>
 
