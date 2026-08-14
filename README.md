@@ -7,14 +7,13 @@
 <h2 align="center">📝 About Me:</h2>
 
 <p align="center">Bulgarian, Ambitious man, Car enthusiast, Technophile</p>
-<p align="center">Ex online student in <a href=https://softuni.bg>Software University</a> from 2023 to 2025</p>
 
 <!--Connections / Links-->
 <h2 align="center">🔗 Connections:</h2>
 
 <div align="center">
     <div id="badges">
-    <a href="https://linktr.ee/stfn.k_19"><img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge" height='25' alt="Linktree Badge"/></a>
+    <a href="https://linktr.ee/stfn__nn"><img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge" height='25' alt="Linktree Badge"/></a>
 </div>
 
 <!--Languages and Tools-->
