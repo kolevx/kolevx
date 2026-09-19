@@ -1,15 +1,7 @@
 <!--About-->
 <h2 align="center">📝 About Me:</h2>
 
-<p align="center">Bulgarian, Ambitious man, Car enthusiast, Technophile</p>
-
-<!--Connections / Links-->
-<h2 align="center">🔗 Connections:</h2>
-
-<div align="center">
-    <div id="badges">
-    <a href="https://linktr.ee/stfn__nn"><img src="https://img.shields.io/badge/Linktree-green?style=for-the-badge" height='25' alt="Linktree Badge"/></a>
-</div>
+<p align="center">Bulgarian, Car enthusiast, Technophile</p>
 
 <!--Languages and Tools-->
 <h2 align="center">「🛠」Languages and Tools:</h2>
