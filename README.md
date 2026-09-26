@@ -1,63 +1,35 @@
 <!--About-->
+
 <h2 align="center">📝 About Me:</h2>
 
-<p align="center">Bulgarian, Car enthusiast, Technophile</p>
+```python
+class StefanKolev:
+    about = [
+        'Bulgarian',
+        'Car enthusiast',
+        'Technophile'
+    ]
 
-<!--Languages and Tools-->
-<h2 align="center">「🛠」Languages and Tools:</h2>
+    languages = [
+        'Python',
+        'JavaScript',
+        'HTML',
+        'CSS'
+    ]
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="Pycharm Logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSC Logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo"  />
-  <img width="12" />
+    tools = [
+        'PyCharm',
+        'Visual Studio Code',
+        'PostgreSQL'
+    ]
+```
+
+<!--GitHub Stats-->
+
+<h2 align="center">📊 GitHub Stats:</h2>
+
+<div align='center'> 
+  
+  [![Stefan's GitHub stats](https://github-stats-extended.vercel.app/api?username=s99-k99-x99&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=s99-k99-x99&theme=radical)](https://github.com/s99-k99-x99/github-readme-stats)
 </div>
-
-<!--SoftUni Certificates-->
-<h2 align="center">📜 SoftUni Certificates:</h2>
-
-<div align="center">
-    <table>
-  <tr>
-    <th>Course</th>
-    <th>Date</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Programming Basics</td>
-    <td>July 2023</td>
-    <td><a href='https://softuni.bg/certificates/details/182590/579852f2'>Click</a></td>
-  </tr>
-  <tr>
-    <td>Programming Fundamentals with Python</td>
-    <td>September 2023</td>
-    <td><a href='https://softuni.bg/certificates/details/197574/4550948a'>Click</a></td>
-  </tr>
-  <tr>
-    <td>Python Advanced</td>
-    <td>January 2024</td>
-    <td><a href='https://softuni.bg/certificates/details/212035/a20e18f2'>Click</a></td>
-  </tr>
-  <tr>
-    <td>Python OOP</td>
-    <td>February 2024</td>
-    <td><a href='https://softuni.bg/certificates/details/213238/6ec796ab'>Click</a></td>
-  </tr>
-   <tr>
-    <td>PpstgreSQL</td>
-    <td>May 2024</td>
-    <td><a href='https://softuni.bg/certificates/details/217081/35220066'>Click</a></td>
-  </tr>
-    <tr>
-    <td>JS Front-End</td>
-    <td>October 2024</td>
-    <td><a href='https://softuni.bg/certificates/details/233162/4c54b9ce'>Click</a></td>
-  </tr>
-</table>
-</div
