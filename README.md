@@ -30,6 +30,6 @@ class StefanKolev:
 
 <div align='center'> 
   
-  [![Stefan's GitHub stats](https://github-stats-extended.vercel.app/api?username=stfn-klv&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
-  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=stfn-klv&theme=radical)](https://github.com/stfn-klv/github-readme-stats)
+  [![Stefan's GitHub stats](https://github-stats-extended.vercel.app/api?username=kolevx&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kolevx&theme=radical)](https://github.com/kolevx/github-readme-stats)
 </div>
